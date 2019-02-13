@@ -1,0 +1,170 @@
+4/30/2018 10:59:13 AM
+1
+Resturant name is: kfc
+Delivery Fee is: 10
+Item name is: samak
+Item quantity is: 1
+Item price is: 100
+Item name is: samak
+Item quantity is: 1
+Item price is: 100
+Total price is: 200
+Delivery boy ID is: 1
+5/1/2018 1:33:43 PM
+2
+Resturant name is: Burger King
+Customer name is: Gamalat
+Delivery Fee is: 10
+Item name is: ChickenBurger
+Item price is: 50
+Item quantity is: 15
+Total price is: 760
+Delivery boy ID is: 3
+5/1/2018 10:53:42 PM
+3
+Resturant name is: Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: CocaCola
+Item price is: 10
+Item quantity is: 10
+Total price is: 110
+Delivery boy ID is: 3
+5/1/2018 11:26:42 PM
+4
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: Mirinda
+Item price is: 12
+Item quantity is: 3
+Total price is: 46
+Delivery boy name is: Mai
+5/2/2018 1:43:10 AM
+5
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: OrangeJuice
+Item price is: 14
+Item quantity is: 2
+Item name is: BeefBurger
+Item price is: 55
+Item quantity is: 2
+Total price is: 148
+Delivery boy name is: Mai
+5/2/2018 2:17:43 AM
+6
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: Mirinda
+Item price is: 12
+Item quantity is: 2
+Total price is: 34
+Delivery boy name is: Mai
+5/2/2018 2:28:57 AM
+7
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: OrangeJuice
+Item price is: 14
+Item quantity is: 3
+Total price is: 52
+Delivery boy name is: Mai
+5/2/2018 2:58:23 AM
+8
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: Mirinda
+Item price is: 12
+Item quantity is: 1
+Total price is: 22
+Delivery boy name is: Mai
+5/2/2018 10:09:57 AM
+9
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: Coffee
+Item price is: 12
+Item quantity is: 1
+Total price is: 22
+Delivery boy name is: Mai
+5/2/2018 10:10:01 AM
+10
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: Coffee
+Item price is: 12
+Item quantity is: 1
+Total price is: 22
+Delivery boy name is: Mai
+5/2/2018 10:15:42 AM
+11
+Resturant name is: 
+Burger KingCustomer name is: nourhan
+Delivery Fee is: 10
+Item name is: Lemonade
+Item price is: 14
+Item quantity is: 1
+Total price is: 24
+Delivery boy name is: Mai
+5/2/2018 10:45:51 AM
+12
+Resturant name is: Burger King
+Customer name is: abdelrahman
+Delivery Fee is: 10
+Item name is: CheeseBurger
+Item price is: 43
+Item quantity is: 1
+Total price is: 53
+Delivery boy name is: Mai
+5/2/2018 10:47:55 AM
+13
+Resturant name is: Burger King
+Customer name is: abdelrahman
+Delivery Fee is: 10
+Item name is: CheeseBurger
+Item price is: 43
+Item quantity is: 1
+Item name is: OrangeJuice
+Item price is: 14
+Item quantity is: 1
+Total price is: 67
+Delivery boy name is: Mai
+5/2/2018 10:48:10 AM
+14
+Resturant name is: Burger King
+Customer name is: abdelrahman
+Delivery Fee is: 10
+Item name is: CheeseBurger
+Item price is: 43
+Item quantity is: 1
+Item name is: OrangeJuice
+Item price is: 14
+Item quantity is: 1
+Total price is: 67
+Delivery boy name is: Mai
+5/2/2018 11:20:52 AM
+15
+Resturant name is: Burger King
+Customer name is: nourhan
+Delivery Fee is: 10
+Item name is: TahiniSauce
+Item price is: 14
+Item quantity is: 2
+Total price is: 38
+Delivery boy name is: Mai
+5/2/2018 11:23:06 AM
+16
+Resturant name is: Burger King
+Customer name is: nourhan
+Delivery Fee is: 10
+Item name is: MargretaPizza
+Item price is: 100
+Item quantity is: 1
+Total price is: 110
+Delivery boy name is: Mai

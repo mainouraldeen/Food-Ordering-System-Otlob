@@ -1,0 +1,69 @@
+Burger King
+30min
+Beverages
+CocaCola 10 1
+Mirinda 12 7
+OrangeJuice 14 5
+Burgers
+ChickenBurger 50 10
+BeefBurger 55 12
+CheeseBurger 43 12
+Desert
+ChocolateCake 15 12
+CheeseCake 16 10
+MoltenCake 16 10
+Alex
+Agamy ASafra Ibahimya 
+Cairo
+Nasr-city Masr-Elgededa shoubra 
+Giza
+El-Remaya Omranya Fesal 
+
+Pizza Hut
+60min
+Beverages
+CocaCola 110 111
+Sprite 112 113
+Mirinda 114 115
+Pizza
+MargretaPizza 100 15
+VegetarianPizza 121 14
+TunaPizza 125 13
+Salad
+Coleslow 10 11
+GreenSalad 12 13
+TahiniSauce 14 15
+Alex
+Agamy ASafra Ibahimya 
+Cairo
+Nasr-city Masr-Elgededa Abbasya 
+Damietta
+CornishAl-neel Al-Galaa Al-Ishreen 
+Giza
+El-Remaya Omranya El-Salaten 
+
+Semsema
+15min
+Beverages
+Tea 10 11
+Coffee 12 13
+Lemonade 14 15
+Desert
+ChocolateCake 15 12
+CheeseCake 16 10
+MoltenCake 13 5
+Sandwiches
+Fool 2 30
+Falafel 3 30
+Batates 5 30
+Alex
+Agamy ASafra Ibahimya 
+Cairo
+Nasr-city shoubra Sheraton 
+Damietta
+CornishAl-neel Al-Galaa Al-Ishreen 
+Giza
+El-Remaya Omranya El-Salaten 
+Suez
+Share3-El-5awaga Abo-Aref AtaqaDestrict 
+

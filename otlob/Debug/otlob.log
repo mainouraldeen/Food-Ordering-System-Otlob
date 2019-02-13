@@ -1,0 +1,3 @@
+﻿  bill.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  bill.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  otlob.vcxproj -> C:\Users\Mai Nour Al-Deen\Source\Repos\Food-Ordering-System-Otlob\Debug\otlob.exe

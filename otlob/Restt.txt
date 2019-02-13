@@ -1,0 +1,64 @@
+Burger King
+Burgers
+ChickenBurger 50 15
+BeefBurger 55 14
+CheeseBurger 43 13
+Desert
+Cho 15 12
+CheeseCake 16 10
+CheeseCake 16 10
+Cat3
+AAA 10 11
+BBB 12 13
+CCC 14 15
+Cairo
+Nasr-city Masr-Elgededa shoubra
+Giza
+El-Remaya area2 area3
+alex
+A1 A2 A3
+30min
+
+
+Pizza Hut
+Pizza
+MargretaPizza 100 15
+VegePizza 121 14
+TunaPizza 125 13
+Cat2
+AA 110 111
+BB 112 113
+CC 114 115
+Cat3
+AAA 10 11
+BBB 12 13
+CCC 14 15
+Cairo
+Nasr-city Masr-Elgededa Abbasya
+Giza
+El-Remaya area2 area4
+Sharm
+A3 A5 A6
+60min
+
+
+Semsema
+Sandwiches
+Fool 2 30
+Falafel 3 30
+Batates 5 30
+Desert
+ChocolateCakecolateCakecolateCake 15 12
+CheeseCake 16 10
+MoltenCake 13 5
+Cat3
+AAA 10 11
+BBB 12 13
+CCC 14 15
+Cairo
+b1 b2 b3
+Giza
+b4 b5 b5
+Sharm
+b7 b8 b9
+15min
