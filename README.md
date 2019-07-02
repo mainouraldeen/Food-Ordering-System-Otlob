@@ -1,4 +1,4 @@
-# Food-Ordering-System-Otlob
+# Otlob
 Object oriented programming course's project.
 
 OOP Final Project using C++ with GUI-Database-Files ( Food ordering Portal Management system)
