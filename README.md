@@ -10,8 +10,7 @@ Each Customer can make multiple orders and each order can contain multiple items
 The Order is associated with an estimated delivery time.
 A Customer can view a list of Restaurants whom have special offers today which is updated every day.
 Any Customer can rate a restaurant from 1 to 5 stars and write a comment on the restaurant.
-You Must
-keep track on the quantity of each item or a specific segment type in the menu you have in restaurants; and if you run out of an item or a segment is not available then you should not allow any customer to buy it.
+You must keep track on the quantity of each item or a specific segment type in the menu you have in restaurants; and if you run out of an item or a segment is not available then you should not allow any customer to buy it.
 
 The Customer Gets A voucher with" 30% discount from the total order Price" when he first creates an account. Also he can get a voucher with a certain money amount (ex: 50 L.E off) on his birthday.
 The system also should manage the employees who deliver the orders to the customers and assign orders to them. Each delivery boy cannot deliver more than 2 orders at a time. At the end of each order you must show a bill that contains. 1- The customer data. 2- The delivery boy data. 3- The list of requested items with the total price plus the delivery charges. 4- The delivery date. A Customer can cancel an order within 10 minutes after it has been issued . A Customer can give feed - back about the delivered food and the delivery process and add suggestions to the restaurant . A Customer can return the order after receiving it and send a complain to the restaurant about the state/quality of the returned food (not fresh-not warm..etc).
@@ -19,3 +18,4 @@ User should be able to
 
 Sign in as a manger to be able to: Add/remove employees. View all bills for orders that should be delivered in a specific date. View bills for specific customer. Check quantity of a specific product.
 Sign in as a customer who is able to: Register as a new customer or Sign in with his account if he already registered before. Unregister an existing account. View the catalogue. Make new order. Use vouchers. Send feed back View special offers https://www.otlob.com/
+
